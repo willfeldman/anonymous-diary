@@ -1,0 +1,15 @@
+.diaryCard {
+    // centers the text vertically
+    display: flex;
+    align-items: center;
+    // sets height and width of cards
+    height: 300px;
+    width: 200px;
+    // colors for cards
+    background-color: #f0f0f0;
+    color: black;
+    // border rounding
+    border-radius: 15px;
+    // space around text
+    padding: 15px;
+}
